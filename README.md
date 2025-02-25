@@ -1,3 +1,3 @@
 -- Netflix Data Analysis using SQL
 
-![logo]()
+![Netflix logo]()
